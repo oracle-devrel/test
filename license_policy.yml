@@ -11,3 +11,7 @@ license_policies:
   label: Approved License
   color_code: '#00800'
   icon: icon-ok-circle
+- license_key: dude
+  label: Approved license
+  color_code: '#00800'
+  icon: icon-ok-circle
